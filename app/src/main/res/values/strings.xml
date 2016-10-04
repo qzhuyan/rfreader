@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arfreader</string>
+    <string name="not_found">Not Found</string>
+    <string name="scan">Scan</string>
+</resources>
